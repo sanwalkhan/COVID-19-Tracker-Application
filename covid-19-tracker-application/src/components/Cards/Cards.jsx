@@ -1,9 +1,9 @@
 import React from 'react'
 
-const cards = () => {
+const Cards = () => {
   return (
     <div>cards</div>
   )
 }
 
-export default cards
+export default Cards
